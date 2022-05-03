@@ -1,0 +1,4 @@
+configuration{
+    lines:9;
+}
+rofi.theme: /home/captain/.local/share/rofi/themes/squared-nord.rasi
